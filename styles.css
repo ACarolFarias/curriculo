@@ -1,0 +1,58 @@
+body {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: linear-gradient(90deg, rgba(152, 147, 243, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+header {
+  background: rgb(152, 147, 243);
+  width: auto;
+  padding: 10px 0 0 10px;
+  text-align: center;
+}
+
+.meu-cabecalho {
+  width: auto;
+}
+
+img {
+  margin: 10px 0 0 0px;
+  position: relative;
+  right: 8.4em;
+  border: 1px;
+  border-radius: 10px;
+}
+
+h1 {
+  margin: center;
+  position: relative;
+  left: 4em;
+  bottom: 4em;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.container-conteudo {
+  text-align: center;
+  width: auto;
+}
+
+h2 {
+  font-weight: bold;
+  margin: 50px 0 0 0;
+}
+
+.container-contato {
+  margin: 0 0 0 10px;
+  text-align: center;
+}
+
+footer {
+  background: rgb(152, 147, 243);
+  width: auto;
+}
+
+.meu-rodape {
+  text-align: center;
+  margin-top: 30px;
+  padding: 10px 0 10px 0;
+}
